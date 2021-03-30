@@ -1,0 +1,12 @@
+class Lab extends Student
+{
+	public void Stud_Lab()
+	{
+		System.out.println("issue_book_date: 20/12/2015");
+		System.out.println("issue_book_date: 20/12/2015");
+		System.out.println("issue_book_date: 20/12/2015");
+		System.out.println("issue_book_date: 20/12/2015");
+	
+			
+	}
+}
