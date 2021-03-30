@@ -1,0 +1,10 @@
+class LateBindingAccess
+{
+	public static void main(String args[])
+	{
+	
+	LateBinding l=LateBinding.getLateBinding();	
+	
+	}
+
+}
